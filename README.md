@@ -5,15 +5,14 @@ VR проект для РГСУ под шлем HTC VIVE, представляю
 ---
 
 # Images
-<img src="landing/hub_gyro.jpg" width = 900/>
-<img src="landing/hub2_gyro.jpg" width = 900/>
-<img src="landing/stone.jpg" width = 900/>
-<img src="landing/water_loc.png" width = 900/>
-<img src="landing/air.jpg" width = 900/>
-<img src="landing/air.jpg" width = 900/>
-<img src="landing/air2.jpg" width = 900/>
-<img src="landing/gamesession_gyro.jpg" width = 900/>
-<img src="landing/gamesession2_gyro.jpg" width = 900/>
+<img src="images/fest2019_1.png" width = 900/>
+<img src="images/fest2019_6.png" width = 900/>
+<img src="images/fest2019_2.png" width = 900/>
+<img src="images/fest2019_3.png" width = 900/>
+<img src="images/fest2019_4.png" width = 900/>
+<img src="images/fest2019_5.png" width = 900/>
+
+
 
 
 ---
