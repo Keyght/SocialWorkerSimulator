@@ -1,0 +1,8 @@
+newmtl свет
+Kd 0.9689043 1 0.0235849
+d 1
+
+newmtl black
+Kd 0 0 0
+d 1
+

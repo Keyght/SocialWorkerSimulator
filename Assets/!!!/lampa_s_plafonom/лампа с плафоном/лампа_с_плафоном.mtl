@@ -1,0 +1,12 @@
+newmtl New_Material
+Kd 0.4898986 0.9528302 0.6565539
+d 1
+
+newmtl свет
+Kd 0.9689043 1 0.0235849
+d 1
+
+newmtl black
+Kd 0 0 0
+d 1
+

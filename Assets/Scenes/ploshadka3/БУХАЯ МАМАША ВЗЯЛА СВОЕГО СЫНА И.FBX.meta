@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: bb3c77af04010b0459e36fa5cc12db4b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Baby
+    100002: Babygavno
+    100004: Babypanties
+    100006: Body
+    100008: Bottoms
+    100010: Box001
+    100012: Eyelashes
+    100014: Eyes
+    100016: Hair
+    100018: IK Chain003
+    100020: IK Chain004
+    100022: IK Chain005
+    100024: IK Chain006
+    100026: mixamorig:Head
+    100028: mixamorig:HeadTop_End
+    100030: mixamorig:Hips
+    100032: mixamorig:LeftArm
+    100034: mixamorig:LeftFoot
+    100036: mixamorig:LeftForeArm
+    100038: mixamorig:LeftHand
+    100040: mixamorig:LeftHandIndex1
+    100042: mixamorig:LeftHandIndex2
+    100044: mixamorig:LeftHandIndex3
+    100046: mixamorig:LeftHandIndex4
+    100048: mixamorig:LeftHandMiddle1
+    100050: mixamorig:LeftHandMiddle2
+    100052: mixamorig:LeftHandMiddle3
+    100054: mixamorig:LeftHandMiddle4
+    100056: mixamorig:LeftHandPinky1
+    100058: mixamorig:LeftHandPinky2
+    100060: mixamorig:LeftHandPinky3
+    100062: mixamorig:LeftHandPinky4
+    100064: mixamorig:LeftHandRing1
+    100066: mixamorig:LeftHandRing2
+    100068: mixamorig:LeftHandRing3
+    100070: mixamorig:LeftHandRing4
+    100072: mixamorig:LeftHandThumb1
+    100074: mixamorig:LeftHandThumb2
+    100076: mixamorig:LeftHandThumb3
+    100078: mixamorig:LeftHandThumb4
+    100080: mixamorig:LeftLeg
+    100082: mixamorig:LeftShoulder
+    100084: mixamorig:LeftToe_End
+    100086: mixamorig:LeftToeBase
+    100088: mixamorig:LeftUpLeg
+    100090: mixamorig:Neck
+    100092: mixamorig:RightArm
+    100094: mixamorig:RightFoot
+    100096: mixamorig:RightForeArm
+    100098: mixamorig:RightHand
+    100100: mixamorig:RightHandIndex1
+    100102: mixamorig:RightHandIndex2
+    100104: mixamorig:RightHandIndex3
+    100106: mixamorig:RightHandIndex4
+    100108: mixamorig:RightHandMiddle1
+    100110: mixamorig:RightHandMiddle2
+    100112: mixamorig:RightHandMiddle3
+    100114: mixamorig:RightHandMiddle4
+    100116: mixamorig:RightHandPinky1
+    100118: mixamorig:RightHandPinky2
+    100120: mixamorig:RightHandPinky3
+    100122: mixamorig:RightHandPinky4
+    100124: mixamorig:RightHandRing1
+    100126: mixamorig:RightHandRing2
+    100128: mixamorig:RightHandRing3
+    100130: mixamorig:RightHandRing4
+    100132: mixamorig:RightHandThumb1
+    100134: mixamorig:RightHandThumb2
+    100136: mixamorig:RightHandThumb3
+    100138: mixamorig:RightHandThumb4
+    100140: mixamorig:RightLeg
+    100142: mixamorig:RightShoulder
+    100144: mixamorig:RightToe_End
+    100146: mixamorig:RightToeBase
+    100148: mixamorig:RightUpLeg
+    100150: mixamorig:Spine
+    100152: mixamorig:Spine1
+    100154: mixamorig:Spine2
+    100156: Shoes
+    100158: Tops
+    100160: //RootNode
+    100162: "\u0434\u0432\u0435\u0440\u044C1"
+    100164: "\u0434\u0432\u0435\u0440\u044C2"
+    100166: "\u0434\u0432\u0435\u0440\u044C3"
+    100168: "\u0434\u0432\u0435\u0440\u044C4"
+    100170: "\u0434\u0432\u0435\u0440\u044C5"
+    100172: "\u043E\u043A\u043D\u0430"
+    100174: "\u043F\u043E\u043B1"
+    100176: "\u043F\u043E\u043B2"
+    100178: "\u043F\u043E\u043B3"
+    100180: "\u043F\u043E\u043B4"
+    100182: "\u043F\u043E\u043B5"
+    100184: "\u043F\u043E\u0442\u043E\u043B\u043E\u043A"
+    100186: "\u0441\u0442\u0435\u043D\u044B"
+    100188: "\u0441\u0442\u0435\u043D\u044B_\u043A\u043E\u0440\u0438\u0434\u043E\u0440"
+    100190: "\u0441\u0442\u0435\u043D\u044B_\u043A\u0443\u0445\u043D\u044F"
+    100192: "\u0441\u0442\u0435\u043D\u044B_\u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0435"
+    100194: IK Chain001
+    100196: IK Chain002
+    400000: Baby
+    400002: Babygavno
+    400004: Babypanties
+    400006: Body
+    400008: Bottoms
+    400010: Box001
+    400012: Eyelashes
+    400014: Eyes
+    400016: Hair
+    400018: IK Chain003
+    400020: IK Chain004
+    400022: IK Chain005
+    400024: IK Chain006
+    400026: mixamorig:Head
+    400028: mixamorig:HeadTop_End
+    400030: mixamorig:Hips
+    400032: mixamorig:LeftArm
+    400034: mixamorig:LeftFoot
+    400036: mixamorig:LeftForeArm
+    400038: mixamorig:LeftHand
+    400040: mixamorig:LeftHandIndex1
+    400042: mixamorig:LeftHandIndex2
+    400044: mixamorig:LeftHandIndex3
+    400046: mixamorig:LeftHandIndex4
+    400048: mixamorig:LeftHandMiddle1
+    400050: mixamorig:LeftHandMiddle2
+    400052: mixamorig:LeftHandMiddle3
+    400054: mixamorig:LeftHandMiddle4
+    400056: mixamorig:LeftHandPinky1
+    400058: mixamorig:LeftHandPinky2
+    400060: mixamorig:LeftHandPinky3
+    400062: mixamorig:LeftHandPinky4
+    400064: mixamorig:LeftHandRing1
+    400066: mixamorig:LeftHandRing2
+    400068: mixamorig:LeftHandRing3
+    400070: mixamorig:LeftHandRing4
+    400072: mixamorig:LeftHandThumb1
+    400074: mixamorig:LeftHandThumb2
+    400076: mixamorig:LeftHandThumb3
+    400078: mixamorig:LeftHandThumb4
+    400080: mixamorig:LeftLeg
+    400082: mixamorig:LeftShoulder
+    400084: mixamorig:LeftToe_End
+    400086: mixamorig:LeftToeBase
+    400088: mixamorig:LeftUpLeg
+    400090: mixamorig:Neck
+    400092: mixamorig:RightArm
+    400094: mixamorig:RightFoot
+    400096: mixamorig:RightForeArm
+    400098: mixamorig:RightHand
+    400100: mixamorig:RightHandIndex1
+    400102: mixamorig:RightHandIndex2
+    400104: mixamorig:RightHandIndex3
+    400106: mixamorig:RightHandIndex4
+    400108: mixamorig:RightHandMiddle1
+    400110: mixamorig:RightHandMiddle2
+    400112: mixamorig:RightHandMiddle3
+    400114: mixamorig:RightHandMiddle4
+    400116: mixamorig:RightHandPinky1
+    400118: mixamorig:RightHandPinky2
+    400120: mixamorig:RightHandPinky3
+    400122: mixamorig:RightHandPinky4
+    400124: mixamorig:RightHandRing1
+    400126: mixamorig:RightHandRing2
+    400128: mixamorig:RightHandRing3
+    400130: mixamorig:RightHandRing4
+    400132: mixamorig:RightHandThumb1
+    400134: mixamorig:RightHandThumb2
+    400136: mixamorig:RightHandThumb3
+    400138: mixamorig:RightHandThumb4
+    400140: mixamorig:RightLeg
+    400142: mixamorig:RightShoulder
+    400144: mixamorig:RightToe_End
+    400146: mixamorig:RightToeBase
+    400148: mixamorig:RightUpLeg
+    400150: mixamorig:Spine
+    400152: mixamorig:Spine1
+    400154: mixamorig:Spine2
+    400156: Shoes
+    400158: Tops
+    400160: //RootNode
+    400162: "\u0434\u0432\u0435\u0440\u044C1"
+    400164: "\u0434\u0432\u0435\u0440\u044C2"
+    400166: "\u0434\u0432\u0435\u0440\u044C3"
+    400168: "\u0434\u0432\u0435\u0440\u044C4"
+    400170: "\u0434\u0432\u0435\u0440\u044C5"
+    400172: "\u043E\u043A\u043D\u0430"
+    400174: "\u043F\u043E\u043B1"
+    400176: "\u043F\u043E\u043B2"
+    400178: "\u043F\u043E\u043B3"
+    400180: "\u043F\u043E\u043B4"
+    400182: "\u043F\u043E\u043B5"
+    400184: "\u043F\u043E\u0442\u043E\u043B\u043E\u043A"
+    400186: "\u0441\u0442\u0435\u043D\u044B"
+    400188: "\u0441\u0442\u0435\u043D\u044B_\u043A\u043E\u0440\u0438\u0434\u043E\u0440"
+    400190: "\u0441\u0442\u0435\u043D\u044B_\u043A\u0443\u0445\u043D\u044F"
+    400192: "\u0441\u0442\u0435\u043D\u044B_\u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0435"
+    400194: IK Chain001
+    400196: IK Chain002
+    2100000: No Name
+    2100002: Auge1
+    2100004: Color_B05
+    2100006: Color_A04
+    2100008: 01 - Default
+    2100010: windel1
+    2300000: Baby
+    2300002: Babygavno
+    2300004: Babypanties
+    2300006: Box001
+    2300008: "\u0434\u0432\u0435\u0440\u044C1"
+    2300010: "\u0434\u0432\u0435\u0440\u044C2"
+    2300012: "\u0434\u0432\u0435\u0440\u044C3"
+    2300014: "\u0434\u0432\u0435\u0440\u044C4"
+    2300016: "\u0434\u0432\u0435\u0440\u044C5"
+    2300018: "\u043E\u043A\u043D\u0430"
+    2300020: "\u043F\u043E\u043B1"
+    2300022: "\u043F\u043E\u043B2"
+    2300024: "\u043F\u043E\u043B3"
+    2300026: "\u043F\u043E\u043B4"
+    2300028: "\u043F\u043E\u043B5"
+    2300030: "\u043F\u043E\u0442\u043E\u043B\u043E\u043A"
+    2300032: "\u0441\u0442\u0435\u043D\u044B"
+    2300034: "\u0441\u0442\u0435\u043D\u044B_\u043A\u043E\u0440\u0438\u0434\u043E\u0440"
+    2300036: "\u0441\u0442\u0435\u043D\u044B_\u043A\u0443\u0445\u043D\u044F"
+    2300038: "\u0441\u0442\u0435\u043D\u044B_\u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0435"
+    3300000: Baby
+    3300002: Babygavno
+    3300004: Babypanties
+    3300006: Box001
+    3300008: "\u0434\u0432\u0435\u0440\u044C1"
+    3300010: "\u0434\u0432\u0435\u0440\u044C2"
+    3300012: "\u0434\u0432\u0435\u0440\u044C3"
+    3300014: "\u0434\u0432\u0435\u0440\u044C4"
+    3300016: "\u0434\u0432\u0435\u0440\u044C5"
+    3300018: "\u043E\u043A\u043D\u0430"
+    3300020: "\u043F\u043E\u043B1"
+    3300022: "\u043F\u043E\u043B2"
+    3300024: "\u043F\u043E\u043B3"
+    3300026: "\u043F\u043E\u043B4"
+    3300028: "\u043F\u043E\u043B5"
+    3300030: "\u043F\u043E\u0442\u043E\u043B\u043E\u043A"
+    3300032: "\u0441\u0442\u0435\u043D\u044B"
+    3300034: "\u0441\u0442\u0435\u043D\u044B_\u043A\u043E\u0440\u0438\u0434\u043E\u0440"
+    3300036: "\u0441\u0442\u0435\u043D\u044B_\u043A\u0443\u0445\u043D\u044F"
+    3300038: "\u0441\u0442\u0435\u043D\u044B_\u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0435"
+    4300000: "\u0441\u0442\u0435\u043D\u044B"
+    4300002: "\u0434\u0432\u0435\u0440\u044C5"
+    4300004: "\u0434\u0432\u0435\u0440\u044C1"
+    4300006: "\u0434\u0432\u0435\u0440\u044C4"
+    4300008: "\u0434\u0432\u0435\u0440\u044C2"
+    4300010: "\u0434\u0432\u0435\u0440\u044C3"
+    4300012: "\u043F\u043E\u0442\u043E\u043B\u043E\u043A"
+    4300014: "\u043E\u043A\u043D\u0430"
+    4300016: "\u043F\u043E\u043B1"
+    4300018: "\u043F\u043E\u043B2"
+    4300020: "\u043F\u043E\u043B3"
+    4300022: "\u043F\u043E\u043B4"
+    4300024: "\u043F\u043E\u043B5"
+    4300026: Box001
+    4300028: "\u0441\u0442\u0435\u043D\u044B_\u043A\u0443\u0445\u043D\u044F"
+    4300030: "\u0441\u0442\u0435\u043D\u044B_\u043A\u043E\u0440\u0438\u0434\u043E\u0440"
+    4300032: "\u0441\u0442\u0435\u043D\u044B_\u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0435"
+    4300034: Body
+    4300036: Eyes
+    4300038: Eyelashes
+    4300040: Bottoms
+    4300042: Hair
+    4300044: Tops
+    4300046: Shoes
+    4300048: Baby
+    4300050: Babygavno
+    4300052: Babypanties
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Body
+    13700002: Bottoms
+    13700004: Eyelashes
+    13700006: Eyes
+    13700008: Hair
+    13700010: Shoes
+    13700012: Tops
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

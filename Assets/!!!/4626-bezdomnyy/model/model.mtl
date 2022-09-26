@@ -1,0 +1,96 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 06.10.2013 02:21:54
+
+newmtl Material__35
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Mihail\Desktop\Новая папка (5)\87_swmotr5\Новая папка\body.png
+	map_Kd C:\Users\Mihail\Desktop\Новая папка (5)\87_swmotr5\Новая папка\body.png
+
+newmtl Material__36
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Mihail\Desktop\Новая папка (5)\87_swmotr5\Новая папка\hand.png
+	map_Kd C:\Users\Mihail\Desktop\Новая папка (5)\87_swmotr5\Новая папка\hand.png
+
+newmtl Material__40
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Mihail\Desktop\Новая папка (5)\87_swmotr5\Новая папка\weel.png
+	map_Kd C:\Users\Mihail\Desktop\Новая папка (5)\87_swmotr5\Новая папка\weel.png
+
+newmtl wire_057008136
+	Ns 32
+	d 1
+	Tr 1
+	Tf 1 1 1
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2235 0.0314 0.5333
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Material__39
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Mihail\Desktop\Новая папка (5)\87_swmotr5\Новая папка\lowd.png
+	map_Kd C:\Users\Mihail\Desktop\Новая папка (5)\87_swmotr5\Новая папка\lowd.png
+
+newmtl Material__37
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Mihail\Desktop\Новая папка (5)\87_swmotr5\Новая папка\head.png
+	map_Kd C:\Users\Mihail\Desktop\Новая папка (5)\87_swmotr5\Новая папка\head.png
+
+newmtl Material__38
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Mihail\Desktop\Новая папка (5)\87_swmotr5\Новая папка\low.png
+	map_Kd C:\Users\Mihail\Desktop\Новая папка (5)\87_swmotr5\Новая папка\low.png

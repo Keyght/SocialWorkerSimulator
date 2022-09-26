@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: bc6d6d38a38674a4083522ffec38508c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 02
+    100002: 03
+    100004: 05
+    100006: 06
+    100008: ban-an
+    100010: Box01
+    100012: Box02
+    100014: Box03
+    100016: Box04
+    100018: Box05
+    100020: Box08
+    100022: Box09
+    100024: Box10
+    100026: Box11
+    100028: chair
+    100030: chair01
+    100032: chair03
+    100034: chair04
+    100036: chanban
+    100038: chanban01
+    100040: chanban02
+    100042: chanban03
+    100044: changhe03
+    100046: changhe04
+    100048: changhe06
+    100050: changhe07
+    100052: Cylinder02
+    100054: Cylinder03
+    100056: Cylinder04
+    100058: Cylinder05
+    100060: Cylinder06
+    100062: Cylinder07
+    100064: Cylinder08
+    100066: Cylinder09
+    100068: Cylinder10
+    100070: Cylinder11
+    100072: Cylinder12
+    100074: Cylinder13
+    100076: Cylinder14
+    100078: Cylinder15
+    100080: Cylinder16
+    100082: Cylinder17
+    100084: Cylinder18
+    100086: Cylinder19
+    100088: Cylinder20
+    100090: Cylinder21
+    100092: Steel
+    100094: Steel01
+    100096: Steel02
+    100098: Steel03
+    100100: //RootNode
+    100102: VRayPlane01
+    100104: Wood-Dark
+    400000: 02
+    400002: 03
+    400004: 05
+    400006: 06
+    400008: ban-an
+    400010: Box01
+    400012: Box02
+    400014: Box03
+    400016: Box04
+    400018: Box05
+    400020: Box08
+    400022: Box09
+    400024: Box10
+    400026: Box11
+    400028: chair
+    400030: chair01
+    400032: chair03
+    400034: chair04
+    400036: chanban
+    400038: chanban01
+    400040: chanban02
+    400042: chanban03
+    400044: changhe03
+    400046: changhe04
+    400048: changhe06
+    400050: changhe07
+    400052: Cylinder02
+    400054: Cylinder03
+    400056: Cylinder04
+    400058: Cylinder05
+    400060: Cylinder06
+    400062: Cylinder07
+    400064: Cylinder08
+    400066: Cylinder09
+    400068: Cylinder10
+    400070: Cylinder11
+    400072: Cylinder12
+    400074: Cylinder13
+    400076: Cylinder14
+    400078: Cylinder15
+    400080: Cylinder16
+    400082: Cylinder17
+    400084: Cylinder18
+    400086: Cylinder19
+    400088: Cylinder20
+    400090: Cylinder21
+    400092: Steel
+    400094: Steel01
+    400096: Steel02
+    400098: Steel03
+    400100: //RootNode
+    400102: VRayPlane01
+    400104: Wood-Dark
+    2100000: Standard_5
+    2100002: 'Material #31'
+    2100004: 'Material #37'
+    2100006: 'Material #44'
+    2100008: 'Material #32'
+    2100010: 'Material #43'
+    2100012: 'Material #45'
+    2100014: 'Material #35'
+    2100016: 'Material #39'
+    2100018: 'Material #42'
+    2100020: 'Material #36'
+    2100022: 'Material #40'
+    2100024: 'Material #41'
+    2100026: 'Material #38'
+    2300000: 02
+    2300002: 03
+    2300004: 05
+    2300006: 06
+    2300008: Box01
+    2300010: Box02
+    2300012: Box03
+    2300014: Box04
+    2300016: Box05
+    2300018: Box08
+    2300020: Box09
+    2300022: Box10
+    2300024: Box11
+    2300026: changhe03
+    2300028: changhe04
+    2300030: changhe06
+    2300032: changhe07
+    2300034: Cylinder02
+    2300036: Cylinder03
+    2300038: Cylinder04
+    2300040: Cylinder05
+    2300042: Cylinder06
+    2300044: Cylinder07
+    2300046: Cylinder08
+    2300048: Cylinder09
+    2300050: Cylinder10
+    2300052: Cylinder11
+    2300054: Cylinder12
+    2300056: Cylinder13
+    2300058: Cylinder14
+    2300060: Cylinder15
+    2300062: Cylinder16
+    2300064: Cylinder17
+    2300066: Cylinder18
+    2300068: Cylinder19
+    2300070: Cylinder20
+    2300072: Cylinder21
+    2300074: Steel
+    2300076: Steel01
+    2300078: Steel02
+    2300080: Steel03
+    2300082: Wood-Dark
+    3300000: 02
+    3300002: 03
+    3300004: 05
+    3300006: 06
+    3300008: Box01
+    3300010: Box02
+    3300012: Box03
+    3300014: Box04
+    3300016: Box05
+    3300018: Box08
+    3300020: Box09
+    3300022: Box10
+    3300024: Box11
+    3300026: changhe03
+    3300028: changhe04
+    3300030: changhe06
+    3300032: changhe07
+    3300034: Cylinder02
+    3300036: Cylinder03
+    3300038: Cylinder04
+    3300040: Cylinder05
+    3300042: Cylinder06
+    3300044: Cylinder07
+    3300046: Cylinder08
+    3300048: Cylinder09
+    3300050: Cylinder10
+    3300052: Cylinder11
+    3300054: Cylinder12
+    3300056: Cylinder13
+    3300058: Cylinder14
+    3300060: Cylinder15
+    3300062: Cylinder16
+    3300064: Cylinder17
+    3300066: Cylinder18
+    3300068: Cylinder19
+    3300070: Cylinder20
+    3300072: Cylinder21
+    3300074: Steel
+    3300076: Steel01
+    3300078: Steel02
+    3300080: Steel03
+    3300082: Wood-Dark
+    4300000: Box10
+    4300002: Box11
+    4300004: changhe07
+    4300006: 06
+    4300008: Steel01
+    4300010: Cylinder12
+    4300012: Cylinder03
+    4300014: Cylinder04
+    4300016: Cylinder05
+    4300018: Cylinder06
+    4300020: Cylinder07
+    4300022: Cylinder08
+    4300024: Cylinder09
+    4300026: Cylinder10
+    4300028: Cylinder11
+    4300030: Cylinder02
+    4300032: Cylinder13
+    4300034: Cylinder14
+    4300036: Cylinder15
+    4300038: Cylinder16
+    4300040: Cylinder17
+    4300042: Cylinder18
+    4300044: Cylinder19
+    4300046: Cylinder20
+    4300048: Cylinder21
+    4300050: Steel
+    4300052: Steel02
+    4300054: Steel03
+    4300056: Wood-Dark
+    4300058: Box01
+    4300060: Box08
+    4300062: Box09
+    4300064: changhe06
+    4300066: 05
+    4300068: Box04
+    4300070: Box05
+    4300072: changhe04
+    4300074: 03
+    4300076: Box02
+    4300078: Box03
+    4300080: changhe03
+    4300082: 02
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
